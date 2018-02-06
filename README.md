@@ -16,7 +16,7 @@ python3 -m pip install pygame --user
 
 Then run the Snake program using Python, e.g.
 ```
-python3 snake.py
+python3 tetris.py
 ```
 
 How To Contribute
